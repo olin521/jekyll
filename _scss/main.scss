@@ -1,6 +1,8 @@
-@import "reset";
+@import "normalize";
+@import "bourbon/bourbon";
 @import "syntax";
 
 body {
-    background: white;
+    background: mediumaquamarine;
+    display: flex;
 }
